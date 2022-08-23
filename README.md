@@ -12,6 +12,8 @@
 <br/>
 <br/>
 <a target="_blank">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatanand&label=Profile%20views&color=0e75b6&style=flat" alt="bharatanand" /> </p>
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/bharatanand/bharatanand/blob/99ab8e12527eb16c42bd5aa3a4cfc945f91639d9/Elements/job.gif">
 </a>
 
