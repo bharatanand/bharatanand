@@ -72,5 +72,6 @@
 <a href="https://github.com/bharatanand">
 ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatanand&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatanand&theme=algolia" alt="bharatanand" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatanand&hide=javascript,java)](https://github.com/bharatanand/github-readme-stats)
 </p>
