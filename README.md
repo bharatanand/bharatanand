@@ -67,7 +67,10 @@
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 <br/>
-<a href="https://github.com/bharatanand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bharatanand&repo=github-readme-stats" />
 
+<p align="center">
+<a href="https://github.com/bharatanand">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatanand&theme=algolia" alt="bharatanand" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia"/></a>
+</p>
 </p>
