@@ -67,11 +67,10 @@
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 <br/>
-
-<p align="center">
-<a href="https://github.com/bharatanand">
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatanand&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatanand&theme=algolia" alt="bharatanand" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatanand&hide=javascript,java)](https://github.com/bharatanand/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </p>
