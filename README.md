@@ -67,7 +67,7 @@
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 <br/>
-<a href="https://github.com/bharatanand/github-readme-stats">
+<a href="https://github.com/bharatanand">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bharatanand&repo=github-readme-stats" />
 
 </p>
