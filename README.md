@@ -49,7 +49,7 @@
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 ### Let's Connect!! <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
-<a href="https://www.linkedin.com/in/tejas-trivedi9/">
+<a href="https://www.linkedin.com/in/bharat-anand/">
   <img align="left" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto: mrbharatanand@gmail.com">
