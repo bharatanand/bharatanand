@@ -23,7 +23,7 @@
  - 💬 Ask me about- Literally anything. Let's find solutions to the most difficult problems xD.
  - 📫 How to reach me: mrbharatanand@gmail.com|bharatanand@outlook.in
  - 😄 Pronouns: he/him
- - ⚡ Fun fact: I listen songs while programming
+ - ⚡ Fun fact: I listen songs while programming.
 
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
