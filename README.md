@@ -24,6 +24,7 @@
  - 📫 How to reach me: mrbharatanand@gmail.com|bharatanand@outlook.in
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I listen songs while programming.
+ - 📄 Resume Link : 
 
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
