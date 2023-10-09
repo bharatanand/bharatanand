@@ -22,7 +22,6 @@
  - 🤔 I’m looking for help with DSA
  - 💬 Ask me about- Literally anything. Let's find solutions to the most difficult problems xD.
  - 📫 How to reach me: mrbharatanand@gmail.com|bharatanand@outlook.in
- - 😄 Pronouns: he/him
  - ⚡ Fun fact: I listen songs while programming.
  - 📄 My [Resume](https://drive.google.com/file/d/1fTcvqMPvjPC5XO0NR_nkYc7-imMIw9kH/view?usp=sharing)
 
